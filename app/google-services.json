@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717765411805",
+    "project_id": "sportlyzer-2b9bb",
+    "storage_bucket": "sportlyzer-2b9bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717765411805:android:43a727eb65f9c992b1ec34",
+        "android_client_info": {
+          "package_name": "com.sportlyzer.sportlyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717765411805-r1a69ba7a8bn8a8lbc3lbg835p7acd6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sportlyzer.sportlyzer",
+            "certificate_hash": "f0df91fb111402e980afba60b43feb7f5e5303c7"
+          }
+        },
+        {
+          "client_id": "717765411805-npvoii70lu5s8o736dcfitluimqegvo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUuMkvA6vNCKvVgvgJAnwMztWK7ZQH54E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717765411805-npvoii70lu5s8o736dcfitluimqegvo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sportlyzer.sportlyzer">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sportlyzer">
+        <activity
+            android:name=".footballrules"
+            android:exported="false" />
+        <activity
+            android:name=".footballvedios"
+            android:exported="false" />
+        <activity
+            android:name=".cricketvedios"
+            android:exported="false" />
+        <activity
+            android:name=".cricket_rules"
+            android:exported="false" />
+        <activity
+            android:name=".volleyvedios"
+            android:exported="false" />
+        <activity
+            android:name=".rules"
+            android:exported="false" />
+        <activity
+            android:name=".images"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
